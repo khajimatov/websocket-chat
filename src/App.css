@@ -1,0 +1,27 @@
+.wrapper {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+.my-status {
+    color: red;
+}
+
+.my-status-online {
+    color: #2eee2e;
+}
+
+.users-and-newusername {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
